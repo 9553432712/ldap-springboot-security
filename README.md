@@ -7,7 +7,7 @@
 **This app also uses inbuilt LDAP server from test-server.ldif file
 by using LDAP Data Interchange Format.**
 
-**This app provides User CRUD operations**
+**This app provides User CRUD operations using Rest API**
 
 <h4>Following are terminologies in LDAP<h4>
 ------------------------------
